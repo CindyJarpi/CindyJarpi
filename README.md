@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="[https://aristi.dev](https://www.linkedin.com/in/cindy-jarpi-meneses-01a342198/)">Cindy Jackelin Jarpi Meneses</a> 👋</h1>
+</div>
 
-<!--
-**CindyJarpi/CindyJarpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/CindyJarpi">
+    <table>
+      <tr>
+        <td><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CindyJarpi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></td>
+        <td><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CindyJarpi&layout=compact&langs_count=8&theme=algolia"/></td>
+      </tr>
+    </table>
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
